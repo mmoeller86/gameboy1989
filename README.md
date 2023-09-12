@@ -33,3 +33,5 @@ ROCK	Rocket Games/Datel
 NGHK	"New GB Color" HK0701/HK0819 PCB
 VF01	Vast Fame
 GB81	Vast Fame secondary releases
+Homebrew
+TPP1  TPP1
